@@ -1,6 +1,6 @@
 # DirtyPointer Hack
 
-A C++ program demonstrating a simple hack-around to access illegaly access private members and private methods of a C++ object outside the class. This hack was just to unerstand pointers and internal memory allocation of object oriented languages like C++. 
+A C++ program demonstrating a simple hack-around to illegaly access private members and private methods of a C++ object outside the class. This hack was just to unerstand pointers and internal memory allocation of object oriented languages like C++. 
 
 ### Concepts learnt: 
 The important concepts learnt while hacking-around :
